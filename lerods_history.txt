@@ -3,3 +3,5 @@ hace crossfit
 hoy es gestor de BD
 
 La historia de su vida
+
+Mañana enfocaremos vida laboral
